@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+
+/* ------ESTILO "INICIO" ------ */
+body{
+    background-image: url("images/background.jpeg");
+    background-size: cover;
+}
+
+.titulo{
+    padding-left: 40%;
+    font-size: 45px;
+}
+
+.texto{
+    font-size: 30px;
+    align-items:center;
+    justify-content:center;
+    text-align: justify;
+    padding-left: 35%;
+    width: 400px;
+}
+
+.imagen{
+    padding-left: 40%;
+    padding-top: 30px;
+    width: 400px;
+}
+
+/*-----ESTILO "ACERCA DE..."------*/
+
+.titulo1{
+    padding-top: 30px;
+    padding-left: 31%;
+    font-size: 45px;
+}
+
+.texto1{
+    font-size: 30px;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    padding-top: 40px;
+    padding-left: 35%;
+    width: 400px;
+}
+
+.imagen1{
+    padding-top: 40px;
+    padding-left: 12%;
+}
+
+/*ESTILO "OBRAS"*/
+.texto2{
+    font-size: 30px;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    padding-top: 40px;
+    padding-left: 35%;
+    width: 400px;
+}
+
+/*ESTILO GALERIA*/
+
+.imagen-capilla{
+    padding-left: 27%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 300px;
+}
+
+.imagen-david{
+    padding-left: 40%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 300px;
+}
+
+.imagen-dios{
+    padding-left: 25%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 300px;
+}
+
+.imagen-escultura{
+    padding-left: 31%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 300px;
+}
+
+/*PIE DE PAGINA*/
+.pie-de-pagina{
+    font-size: 30px;
+    padding-top: 30px;
+    padding-left: 39%;
+    padding-bottom: 50px;
+}
